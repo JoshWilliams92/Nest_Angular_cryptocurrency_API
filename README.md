@@ -1,5 +1,5 @@
 # Nest_Angular_cryptocurrency_API
-Displaying Crypto Currency prices from external API on a 2 second interval server poll.
+Displaying Crypto Currency prices from external API in near real-time on a 2 second interval server poll.
 # Prerequisites
 1. Node.js >= version 18.12.1
 2. Nest.js >= version 10.1.16 `npm install --global @nestjs/cli`
